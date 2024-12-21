@@ -1,4 +1,4 @@
-# analisis-data-bike-sharing
+# Analisis data-bike sharing
 Merupakan proyek tugas akhir dari "Kelas Belajar Analisis Data dengan Python" di **Dicoding** yang dibuat menggunakan python dan streamlit
 
 ## Kriteria:
@@ -7,9 +7,14 @@ Merupakan proyek tugas akhir dari "Kelas Belajar Analisis Data dengan Python" di
 - Proses Analisis Dibuat dalam Notebook yang Rapi
 - Membuat Dashboard Sederhana Menggunakan Streamlit
 
-
-## Cara menjalankan dashboard:
-1. download project ini
-2. install streamlit menggunakan terminal (pip install streamlit)
-3. masuk ke directory dashboard
-4. jalankan streamlit (streamlit run dashboard.py)
+## Instalasi
+1. Clone repository ini ke komputer lokal Anda menggunakan perintah berikut:
+   ```shell
+   git clone https://github.com/ichsanalam/analisis-data-bike-sharing-Dicoding/tree/main
+   pip install streamlit
+   pip install -r requirements.txt
+   ```
+2. Jalankan Streamlit
+   ```shell
+   streamliat run dashboard.py
+   ```
