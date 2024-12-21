@@ -11,7 +11,7 @@ Hasil analisis dapat dilihat di [notebook](https://github.com/ichsanalam/analisi
 ## Instalasi
 1. Clone repository ini ke komputer lokal Anda menggunakan perintah berikut:
    ```shell
-   git clone https://github.com/ichsanalam/analisis-data-bike-sharing-Dicoding/tree/main
+   git clone https://github.com/ichsanalam/analisis-data-bike-sharing-Dicoding
    pip install streamlit
    pip install -r requirements.txt
    ```
