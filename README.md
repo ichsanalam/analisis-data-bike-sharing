@@ -1,5 +1,6 @@
 # Analisis data-bike sharing
-Merupakan proyek tugas akhir dari "Kelas Belajar Analisis Data dengan Python" di **Dicoding** yang dibuat menggunakan python dan streamlit
+Merupakan proyek tugas akhir dari "Kelas Belajar Analisis Data dengan Python" di **Dicoding** yang dibuat menggunakan python dan streamlit.
+Hasil analisis dapat dilihat di [notebook](https://github.com/ichsanalam/analisis-data-bike-sharing-Dicoding/blob/main/notebook.ipynb)
 
 ## Kriteria:
 - Menggunakan Salah Satu dari Dataset yang Telah Disediakan
